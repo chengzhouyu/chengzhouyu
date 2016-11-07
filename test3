@@ -6,4 +6,8 @@ ok
 master远程修改：
 dev02 远程修改test3：
 bendi xiugai dev02
+<<<<<<< HEAD
 567
+=======
+123
+>>>>>>> dev02
