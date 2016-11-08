@@ -8,6 +8,9 @@ zoukai vs 劫匪
 <p>3. git branch the_branch_backup  本分该分支（操作习惯，最好备份一下）
 <p>4. git reset --hard commit-id   把该测试分支本地回滚到某个commit-id
 <p>5. git push origin :the_branch  删除远程分支
-<p>6. git push origin the_branch   把回滚后的本地分支重新推送到远程
+<p>6. git push origin the_branch   把回滚后的本地分支重新推送到
 <p>7. git branch -D  the_branch  如果前面都成功，则删掉这个备份分支
+
+
+劫匪瑞111
 
